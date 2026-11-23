@@ -56,13 +56,6 @@ dois cliques sobre seu registro.
 
 ## 🧰 Tecnologias utilizadas
 
-::: {align="center"}
-`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML5" width="64" height="64">`{=html}
-   
-`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo CSS3" width="64" height="64">`{=html}
-   
-`<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo JavaScript" width="64" height="64">`{=html}
-:::
 
 | Tecnologia | Aplicação no projeto |
 |---|---|
