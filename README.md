@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🎓 Cadastro de Alunos
 
 **Uma aplicação web simples para cadastrar, pesquisar e organizar alunos
@@ -7,13 +7,13 @@ e suas notas.**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-:::
+
 
 ------------------------------------------------------------------------
 
 ## 📌 Sobre o projeto
 
-O **Cadastro de Alunos** é um projeto desenvolvido para praticar
+O Cadastro de Alunos é um projeto desenvolvido para praticar
 conceitos de desenvolvimento web. A página apresenta um formulário para
 inserir o nome e a nota de um aluno, além de uma área para visualizar e
 pesquisar os registros.
@@ -100,6 +100,6 @@ criação de interações com JavaScript.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 Feito para praticar e evoluir no desenvolvimento web. 🚀
-:::
+
